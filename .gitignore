@@ -1,0 +1,7 @@
+# Compiled binaries
+lsh
+main
+simple-database/sqlite
+
+# Object files
+*.o
